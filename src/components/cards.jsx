@@ -34,12 +34,13 @@ export default function Cards({ name, svg, href }) {
                         <p id="prompt">{svg}</p>
                         {/* {href === "benitotridelladolce@gmail.com" && <div className="title">Enviame un mensaje<br />{name}</div>} */}
                         <div className="title">
-                            {href === "benitotridelladolce@gmail.com" ? "Enviame un mensaje" : "Visita mi perfil de"}
+                            {href === "benitotridelladolce@gmail.com" ? "Envíame un mensaje por" : "Visita mi perfil de"}
                             <br />{name}
                         </div>
                     </div>
                 </div>
             </div>
+            <hr />
         </a>
     )
 }
