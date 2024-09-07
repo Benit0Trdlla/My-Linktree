@@ -3,6 +3,7 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  justify-content: center;
 }
 
 .App {
@@ -11,13 +12,6 @@
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-}
-
-
-@media (prefers-color-scheme: light) {
-  .Subtitle {
-    color: red;
-  }
 }
 
 .Name {
