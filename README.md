@@ -1,8 +1,9 @@
-# React + Vite
+# Mi Linktree
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+He diseñado y desarrollado mi propia alternativa a Linktree, centrándome en crear una plataforma sencilla y eficaz para gestionar múltiples enlaces desde una única página. El proyecto incluye funciones personalizables que permiten a los usuarios organizar y compartir sus enlaces de forma clara y atractiva.
 
-Currently, two official plugins are available:
+Con las tecnologías: React, CSS, Ui Verse y Vite.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Ver el resultado
+
+Deploy: [https://clon-afip.vercel.app/](https://my-linktree-pink.vercel.app/).
