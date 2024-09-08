@@ -6,4 +6,4 @@ Con las tecnologías: React, CSS, Ui Verse y Vite.
 
 ## Ver el resultado
 
-Deploy: [https://clon-afip.vercel.app/](https://my-linktree-pink.vercel.app/).
+Deploy: [https://my-linktree-pink.vercel.app/](https://my-linktree-pink.vercel.app/).
