@@ -24,7 +24,7 @@ function App() {
         </div>
         <div className="containers">
           <Notification title="Descargar CV" description="Descarga mi Curriculum Vitae y conoce en detalle mis estudios y proyectos." href="CV/Frontend - Benito Tridella Dolce.docx.pdf" />
-          <Notification title="Visita mi Portfolio" description="Un reflejo de mi compromiso con la creación de interfaces de usuario atractivas." href="https://portfolio-pi-six-69.vercel.app/" />
+          <Notification title="Visita mi Portfolio" description="Un reflejo de mi compromiso con la creación de interfaces de usuario atractivas." href="https://benito-tridella-dolce.vercel.app/" />
         </div>
       </div>
     </div>
